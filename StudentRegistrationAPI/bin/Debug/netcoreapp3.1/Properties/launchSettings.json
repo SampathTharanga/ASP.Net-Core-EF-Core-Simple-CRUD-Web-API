@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:54538",
+      "applicationUrl": "https://mystudentapi.azurewebsites.net", /*http://localhost:54538*/
       "sslPort": 44357
     }
   },
@@ -21,7 +21,7 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/TableStudent",
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "applicationUrl": "https://mystudentapi.azurewebsites.net", /*https://localhost:5001;http://localhost:5000*/
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

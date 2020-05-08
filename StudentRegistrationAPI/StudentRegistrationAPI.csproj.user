@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>StudentRegistrationAPI.Models.StudentRegDBContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>mystudentapi - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
